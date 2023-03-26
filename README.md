@@ -1,6 +1,6 @@
 ## 1. Základní koncepce
 
-Hra se bude ovládat pomocí kláves "wsad". Bude naprogramovaná v Godotu ve stylu 2D. Cílem hry bude se pomocí plošin dostat co nejvýše.
+Hra se bude ovládat pomocí šipek. Bude naprogramovaná v Godotu ve stylu 2D. Cílem hry bude se pomocí plošin dostat co nejvýše.
 
 ## 2. level design
 
